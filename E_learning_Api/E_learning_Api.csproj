@@ -1,0 +1,77 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.31" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.31">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.31">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.6.2" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Data\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="Helpers\" />
+    <None Remove="Helpers\Extensions\" />
+    <None Remove="Helpers\EntityConfigurations\" />
+    <None Remove="DTOs\" />
+    <None Remove="Models\" />
+    <None Remove="DTOs\Sliders\" />
+    <None Remove="Controllers\Admin\" />
+    <None Remove="DTOs\Abouts\" />
+    <None Remove="DTOs\Categories\" />
+    <None Remove="DTOs\Settings\" />
+    <None Remove="DTOs\Contacts\" />
+    <None Remove="DTOs\Informations\" />
+    <None Remove="DTOs\Instructors\" />
+    <None Remove="DTOs\SocialMedias\" />
+    <None Remove="DTOs\Courses\" />
+    <None Remove="DTOs\Students\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Data\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Helpers\Extensions\" />
+    <Folder Include="Helpers\EntityConfigurations\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Models\" />
+    <Folder Include="DTOs\Sliders\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\Images\" />
+    <Folder Include="Controllers\Admin\" />
+    <Folder Include="DTOs\Abouts\" />
+    <Folder Include="DTOs\Categories\" />
+    <Folder Include="DTOs\Settings\" />
+    <Folder Include="DTOs\Contacts\" />
+    <Folder Include="DTOs\Informations\" />
+    <Folder Include="DTOs\Instructors\" />
+    <Folder Include="DTOs\SocialMedias\" />
+    <Folder Include="DTOs\Courses\" />
+    <Folder Include="DTOs\Students\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\Images\" />
+  </ItemGroup>
+</Project>

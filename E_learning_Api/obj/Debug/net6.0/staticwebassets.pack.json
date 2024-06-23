@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/Images/083c93a2-aedd-49e9-8b3b-93be50d41644-cat-4.jpg",
+      "PackagePath": "staticwebassets/Images/083c93a2-aedd-49e9-8b3b-93be50d41644-cat-4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/Images/1f21a979-129c-4540-be12-fd92c440d1cc-team-2.jpg",
+      "PackagePath": "staticwebassets/Images/1f21a979-129c-4540-be12-fd92c440d1cc-team-2.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/Images/2d8447f1-07e0-41e1-9a9c-c0b881449ffe-about.jpg",
+      "PackagePath": "staticwebassets/Images/2d8447f1-07e0-41e1-9a9c-c0b881449ffe-about.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/Images/af340985-7694-480a-ba84-a2d38cd8b523-carousel-1.jpg",
+      "PackagePath": "staticwebassets/Images/af340985-7694-480a-ba84-a2d38cd8b523-carousel-1.jpg"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.E_learning_Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.E_learning_Api.props",
+      "PackagePath": "build\\E_learning_Api.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.E_learning_Api.props",
+      "PackagePath": "buildMultiTargeting\\E_learning_Api.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.E_learning_Api.props",
+      "PackagePath": "buildTransitive\\E_learning_Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

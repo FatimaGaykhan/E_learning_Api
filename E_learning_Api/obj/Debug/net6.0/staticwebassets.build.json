@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "P5U/F+4myM5F2fRTMurD09KFt1rOdzwDJ01wJfdqdQ8=",
+  "Source": "E_learning_Api",
+  "BasePath": "_content/E_learning_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E_learning_Api/wwwroot",
+      "Source": "E_learning_Api",
+      "ContentRoot": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/",
+      "BasePath": "_content/E_learning_Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/Images/083c93a2-aedd-49e9-8b3b-93be50d41644-cat-4.jpg",
+      "SourceId": "E_learning_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/",
+      "BasePath": "_content/E_learning_Api",
+      "RelativePath": "Images/083c93a2-aedd-49e9-8b3b-93be50d41644-cat-4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/083c93a2-aedd-49e9-8b3b-93be50d41644-cat-4.jpg"
+    },
+    {
+      "Identity": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/Images/1f21a979-129c-4540-be12-fd92c440d1cc-team-2.jpg",
+      "SourceId": "E_learning_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/",
+      "BasePath": "_content/E_learning_Api",
+      "RelativePath": "Images/1f21a979-129c-4540-be12-fd92c440d1cc-team-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/1f21a979-129c-4540-be12-fd92c440d1cc-team-2.jpg"
+    },
+    {
+      "Identity": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/Images/2d8447f1-07e0-41e1-9a9c-c0b881449ffe-about.jpg",
+      "SourceId": "E_learning_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/",
+      "BasePath": "_content/E_learning_Api",
+      "RelativePath": "Images/2d8447f1-07e0-41e1-9a9c-c0b881449ffe-about.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/2d8447f1-07e0-41e1-9a9c-c0b881449ffe-about.jpg"
+    },
+    {
+      "Identity": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/Images/af340985-7694-480a-ba84-a2d38cd8b523-carousel-1.jpg",
+      "SourceId": "E_learning_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatimagaykhanova/Desktop/E_learning_Api/E_learning_Api/wwwroot/",
+      "BasePath": "_content/E_learning_Api",
+      "RelativePath": "Images/af340985-7694-480a-ba84-a2d38cd8b523-carousel-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/af340985-7694-480a-ba84-a2d38cd8b523-carousel-1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+﻿<Properties StartupConfiguration="{87E64D9F-1875-4ACB-9BEF-5FDB49999244}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.E__learning__Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="E_learning_Api/Services/Interfaces/ICourseService.cs">
+    <Files>
+      <File FileName="E_learning_Api/Services/Interfaces/IInstructorService.cs" Line="16" Column="24" />
+      <File FileName="E_learning_Api/Services/Interfaces/ISocialMediaService.cs" />
+      <File FileName="E_learning_Api/Services/InstructorService.cs" Line="66" Column="12" />
+      <File FileName="E_learning_Api/Services/SocialMediaService.cs" />
+      <File FileName="E_learning_Api/Program.cs" Line="92" Column="83" />
+      <File FileName="E_learning_Api/DTOs/Instructors/InstructorDto.cs" />
+      <File FileName="E_learning_Api/DTOs/SocialMedias/SocialMediaDto.cs" />
+      <File FileName="E_learning_Api/Models/SocialMedia.cs" />
+      <File FileName="E_learning_Api/Models/Instructor.cs" />
+      <File FileName="E_learning_Api/Services/SliderService.cs" Line="44" Column="13" />
+      <File FileName="E_learning_Api/Services/SettingService.cs" />
+      <File FileName="E_learning_Api/Helpers/MappingProfile.cs" Line="83" Column="74" />
+      <File FileName="E_learning_Api/Controllers/Admin/SocialMediaController.cs" />
+      <File FileName="E_learning_Api/Controllers/Admin/SettingController.cs" />
+      <File FileName="E_learning_Api/DTOs/Instructors/InstructorSocialMediaDto.cs" Line="19" Column="1" />
+      <File FileName="E_learning_Api/Helpers/EntityConfigurations/InstructorSocialMediaConfigurations.cs" />
+      <File FileName="E_learning_Api/Models/InstructorSocialMedia.cs" Line="6" Column="9" />
+      <File FileName="E_learning_Api/Controllers/Admin/InstructorController.cs" Line="111" Column="9" />
+      <File FileName="E_learning_Api/DTOs/Instructors/InstructorDetailDto.cs" />
+      <File FileName="E_learning_Api/Controllers/Admin/SliderController.cs" Line="61" Column="9" />
+      <File FileName="E_learning_Api/DTOs/SocialMedias/SocialMediaDetailDto.cs" />
+      <File FileName="E_learning_Api/Controllers/Admin/CategoryController.cs" Line="76" Column="9" />
+      <File FileName="E_learning_Api/DTOs/SocialMedias/SocialMediaCreateDto.cs" />
+      <File FileName="E_learning_Api/DTOs/Sliders/SliderCreateDto.cs" Line="16" Column="1" />
+      <File FileName="E_learning_Api/Services/ContactService.cs" />
+      <File FileName="E_learning_Api/Controllers/ContactController.cs" />
+      <File FileName="E_learning_Api/Data/AppDbContext.cs" Line="568" Column="36" />
+      <File FileName="E_learning_Api/DTOs/SocialMedias/SocialMediaEditDto.cs" />
+      <File FileName="E_learning_Api/DTOs/Sliders/SliderEditDto.cs" />
+      <File FileName="E_learning_Api/DTOs/Settings/SettingEditDto.cs" />
+      <File FileName="E_learning_Api/DTOs/Instructors/InstructorCreateDto.cs" Line="19" Column="5" />
+      <File FileName="E_learning_Api/DTOs/Instructors/InstructorEditDto.cs" Line="21" Column="42" />
+      <File FileName="E_learning_Api/Helpers/Extensions/FileExtensions.cs" />
+      <File FileName="E_learning_Api/Models/Course.cs" Line="24" Column="1" />
+      <File FileName="E_learning_Api/Models/CourseImage.cs" Line="6" Column="9" />
+      <File FileName="E_learning_Api/Models/CourseStudent.cs" Line="6" Column="9" />
+      <File FileName="E_learning_Api/Models/Student.cs" Line="14" Column="36" />
+      <File FileName="E_learning_Api/Helpers/EntityConfigurations/CourseConfigurations.cs" />
+      <File FileName="E_learning_Api/Helpers/EntityConfigurations/ContactConfigurations.cs" />
+      <File FileName="E_learning_Api/Helpers/EntityConfigurations/InstructorConfigurations.cs" />
+      <File FileName="E_learning_Api/Helpers/EntityConfigurations/SocialMediaConfigurations.cs" />
+      <File FileName="E_learning_Api/Models/Information.cs" />
+      <File FileName="E_learning_Api/Helpers/EntityConfigurations/InformationConfigurations.cs" />
+      <File FileName="E_learning_Api/Helpers/EntityConfigurations/CourseStudentConfigurations.cs" />
+      <File FileName="E_learning_Api/Helpers/EntityConfigurations/StudentConfigurations.cs" />
+      <File FileName="E_learning_Api/DTOs/Categories/CategoryDto.cs" />
+      <File FileName="E_learning_Api/Services/Interfaces/ICourseService.cs" Line="19" Column="1" />
+      <File FileName="E_learning_Api/Services/CourseService.cs" Line="59" Column="13" />
+      <File FileName="E_learning_Api/DTOs/Courses/CourseDto.cs" Line="10" Column="9" />
+      <File FileName="E_learning_Api/DTOs/Courses/CourseImageDto.cs" Line="11" Column="1" />
+      <File FileName="E_learning_Api/DTOs/Courses/CourseStudentDto.cs" Line="12" Column="1" />
+      <File FileName="E_learning_Api/Controllers/Admin/CourseController.cs" Line="41" Column="9" />
+      <File FileName="E_learning_Api/DTOs/Courses/CourseCreateDto.cs" Line="26" Column="1" />
+      <File FileName="E_learning_Api/DTOs/Courses/CourseEditDto.cs" Line="22" Column="1" />
+      <File FileName="E_learning_Api/DTOs/Courses/MainAndDeleteCourseImageDto.cs" Line="8" Column="41" />
+      <File FileName="E_learning_Api/DTOs/Instructors/AddSocialMediaDto.cs" Line="8" Column="9" />
+      <File FileName="E_learning_Api/DTOs/Instructors/InstructorSocialLinkDeleteDto.cs" Line="10" Column="47" />
+      <File FileName="E_learning_Api/Services/Interfaces/IStudentCourse.cs" Line="18" Column="40" />
+      <File FileName="E_learning_Api/Services/StudentCourse.cs" Line="67" Column="36" />
+      <File FileName="E_learning_Api/DTOs/Students/StudentDto.cs" Line="8" Column="9" />
+      <File FileName="E_learning_Api/Controllers/Admin/StudentController.cs" Line="112" Column="52" />
+      <File FileName="E_learning_Api/Services/Interfaces/ISliderService.cs" Line="1" Column="1" />
+      <File FileName="E_learning_Api/DTOs/Students/StudentDetailDto.cs" Line="18" Column="48" />
+      <File FileName="E_learning_Api/DTOs/Students/StudentCreateDto.cs" Line="23" Column="5" />
+      <File FileName="E_learning_Api/DTOs/Students/StudentEditDto.cs" Line="23" Column="27" />
+      <File FileName="E_learning_Api/DTOs/Students/AddCourseStudentDto.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="E_learning_Api" expanded="True">
+            <Node name="E_learning_Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Admin" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="DTOs" expanded="True">
+                <Node name="Abouts" expanded="True" />
+                <Node name="Categories" expanded="True" />
+                <Node name="Contacts" expanded="True" />
+                <Node name="Courses" expanded="True" />
+                <Node name="Informations" expanded="True" />
+                <Node name="Instructors" expanded="True" />
+                <Node name="Settings" expanded="True" />
+                <Node name="Sliders" expanded="True" />
+                <Node name="SocialMedias" expanded="True" />
+                <Node name="Students" expanded="True" />
+              </Node>
+              <Node name="Helpers" expanded="True">
+                <Node name="EntityConfigurations" expanded="True" />
+                <Node name="Extensions" expanded="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="ICourseService.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
